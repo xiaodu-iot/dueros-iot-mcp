@@ -44,7 +44,7 @@ stdio是当前各大llm应用(Claude、Cursor、Gemini Cli等)普遍支持的模
 
 第一步：账号授权
 
-[发起授权请求](https://openapi.baidu.com/oauth/2.0/authorize?response_type=token&client_id=E0mZ7T6NYBLwqde7GKQAv2vK4zHjOqOH&redirect_uri=oob&scope=basic,dueros&referer=https://github.com/baidu/dueros-iot-mcp)
+[发起授权请求](https://openapi.baidu.com/oauth/2.0/authorize?response_type=token&client_id=E0mZ7T6NYBLwqde7GKQAv2vK4zHjOqOH&redirect_uri=oob&scope=basic,dueros&referer=https://github.com)
 
 ![images](images/auth.png)
 
