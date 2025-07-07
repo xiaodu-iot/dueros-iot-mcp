@@ -44,7 +44,7 @@ stdio是当前各大llm应用(Claude、Cursor、Gemini Cli等)普遍支持的模
 
 第一步：账号授权
 
-<a href="https://openapi.baidu.com/oauth/2.0/authorize?response_type=token&client_id=E0mZ7T6NYBLwqde7GKQAv2vK4zHjOqOH&redirect_uri=oob&scope=basic,dueros" target="_blank" rel="noopener noreferrer">发起授权请求（新窗口打开）</a>
+[发起授权请求](javascript:window.open('https://openapi.baidu.com/oauth/2.0/authorize?response_type=token&client_id=E0mZ7T6NYBLwqde7GKQAv2vK4zHjOqOH&redirect_uri=oob&scope=basic,dueros','_blank'))
 
 ![images](images/auth.png)
 
