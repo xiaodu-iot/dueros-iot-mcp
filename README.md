@@ -24,10 +24,6 @@ stdio是当前各大llm应用(Claude、Cursor、Gemini Cli等)普遍支持的模
 
 2.  在 `mcp.json` 配置文件中添加如下内容后保存
 
-    > **注意**：请确保已根据 **使用准备** 文档完成了必要的认证配置
-
-    > *ACCESS_TOKEN的获取方式请参考[接入授权](https://dueros.baidu.com/didp/doc/dueros-bot-platform/mcp-server/prepare/prepare_markdown)*
-
     ```json
     {
       "mcpServers": {
@@ -44,6 +40,11 @@ stdio是当前各大llm应用(Claude、Cursor、Gemini Cli等)普遍支持的模
       }
     }
     ```
+    > **注意**：请确保已根据 **使用准备** 文档完成了必要的认证配置
+
+    > *ACCESS_TOKEN的获取方式请参考[接入授权](https://dueros.baidu.com/didp/doc/dueros-bot-platform/mcp-server/prepare/prepare_markdown)*
+    
+    > 对于个人普通用户体验，可以通过下方的[个人用户临时授权]临时获取ACCESS_TOKEN 
 
 3. 个人用户临时授权
 
