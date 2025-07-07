@@ -2,12 +2,6 @@
 
 **更新时间： 2025-07-01**
 
-- [简介](#intro)
-- [通过Stdio接入](#stdio)
-  - [一、配置](#config)
-  - [二、使用](#use)
-- [反馈支持](#feedback)
-
 ## <span id="intro">简介</span>
 凡是支持MCP协议的平台（如Claude、Cursor、Cline）均能够快速接入小度IoT设备控制服务。目前仅支持 **Stdio** 方式接入。
 
