@@ -65,3 +65,5 @@ stdio是当前各大llm应用(Claude、Cursor、Gemini Cli等)普遍支持的模
 ### <span id="use">二、使用</span>
 
 在Cursor会话中选择 **Agent** 交互模式即可开始使用。
+
+<a href="https://example.com" target="_blank" rel="noopener noreferrer nofollow">test</a>
